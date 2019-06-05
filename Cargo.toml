@@ -3,6 +3,7 @@ name = "until_regex"
 version = "0.1.0"
 authors = ["dbeard <dbeard@groupon.com>"]
 edition = "2018"
+license = "MIT"
 
 [dependencies]
 regex = "1"
